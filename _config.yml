@@ -3,9 +3,9 @@
 # ----------------------- #
 
 url: http://pupiwang.github.io
-title: My Octopress Blog
-subtitle: A blogging framework for hackers.
-author: Your Name
+title: 小智智的部落格
+subtitle: 不写博客的程序员不是一个好男人
+author: Pupi
 simple_search: https://www.google.com/search
 description:
 
@@ -17,9 +17,9 @@ date_format: "ordinal"
 
 # RSS / Email (optional) subscription links (change if using something like Feedburner)
 subscribe_rss: /atom.xml
-subscribe_email:
+subscribe_email: dreamjl@live.cn
 # RSS feeds can list your email address if you like
-email:
+email: dreamjl@live.cn
 
 # ----------------------- #
 #    Jekyll & Plugins     #
