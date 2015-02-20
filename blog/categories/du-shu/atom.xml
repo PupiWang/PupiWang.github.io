@@ -1,8 +1,8 @@
 <?xml version="1.0" encoding="utf-8"?>
 <feed xmlns="http://www.w3.org/2005/Atom">
 
-  <title><![CDATA[小智智的部落格]]></title>
-  <link href="http://pupiwang.github.io/atom.xml" rel="self"/>
+  <title><![CDATA[Category: 读书 | 小智智的部落格]]></title>
+  <link href="http://pupiwang.github.io/blog/categories/du-shu/atom.xml" rel="self"/>
   <link href="http://pupiwang.github.io/"/>
   <updated>2015-02-20T14:02:13+08:00</updated>
   <id>http://pupiwang.github.io/</id>
@@ -18,15 +18,6 @@
     <link href="http://pupiwang.github.io/blog/2015/02/20/%3C%3Cwen-ming-zhi-guang-%3E%3E-du-hou-gan/"/>
     <updated>2015-02-20T13:21:39+08:00</updated>
     <id>http://pupiwang.github.io/blog/2015/02/20/<<wen-ming-zhi-guang->>-du-hou-gan</id>
-    <content type="html"><![CDATA[
-]]></content>
-  </entry>
-  
-  <entry>
-    <title type="html"><![CDATA[Devops Session Reproduce]]></title>
-    <link href="http://pupiwang.github.io/blog/2015/01/21/devops-session-reproduce/"/>
-    <updated>2015-01-21T19:40:19+08:00</updated>
-    <id>http://pupiwang.github.io/blog/2015/01/21/devops-session-reproduce</id>
     <content type="html"><![CDATA[
 ]]></content>
   </entry>
