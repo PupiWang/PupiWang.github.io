@@ -1,0 +1,36 @@
+<?xml version="1.0" encoding="utf-8"?>
+<feed xmlns="http://www.w3.org/2005/Atom">
+
+  <title><![CDATA[Category: 技术 | 小智智的部落格]]></title>
+  <link href="http://pupiwang.github.io/blog/categories/ji-zhu/atom.xml" rel="self"/>
+  <link href="http://pupiwang.github.io/"/>
+  <updated>2015-02-27T21:12:05+08:00</updated>
+  <id>http://pupiwang.github.io/</id>
+  <author>
+    <name><![CDATA[Pupi]]></name>
+    <email><![CDATA[dreamjl@live.cn]]></email>
+  </author>
+  <generator uri="http://octopress.org/">Octopress</generator>
+
+  
+  <entry>
+    <title type="html"><![CDATA[Devops Session Reproduce]]></title>
+    <link href="http://pupiwang.github.io/blog/2015/01/21/devops-session-reproduce/"/>
+    <updated>2015-01-21T19:40:19+08:00</updated>
+    <id>http://pupiwang.github.io/blog/2015/01/21/devops-session-reproduce</id>
+    <content type="html"><![CDATA[<h2>起因</h2>
+
+<p>DevOps小组的DevOps系列课程是我在加入ThoughtWorks的8个月以来见过的质量最高的系列课程，没有之一。我希望把我在这系列课程中学到的知识记录下来，万一以后自己有机会也可以做一期这样的session，或者说确保自己确实掌握了。</p>
+
+<p>在这篇文章里，我会按照以下的顺序对DevOps进行讲解：
+* 什么是DevOps
+* VirtualBox
+* Vagrant
+* Ansible
+* Jenkins
+* GoCD
+（To be continued&hellip;）</p>
+]]></content>
+  </entry>
+  
+</feed>
